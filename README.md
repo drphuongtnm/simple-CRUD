@@ -86,5 +86,3 @@ The server will start at `http://localhost:4000/`.
 ## Testing the API
 
 Open **Postman** and use the above endpoints to send requests and test the CRUD functionality.
-
-Happy coding! 🚀
