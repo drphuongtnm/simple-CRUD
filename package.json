@@ -1,0 +1,30 @@
+{
+  "name": "simple-crud",
+  "version": "1.0.0",
+  "description": "A simple CRUD with ExpressJS + TypeScript + MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "serve": "node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drphuongtnm/simple-CRUD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drphuongtnm/simple-CRUD/issues"
+  },
+  "homepage": "https://github.com/drphuongtnm/simple-CRUD#readme",
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "@types/mongoose": "^5.11.96",
+    "express": "^4.21.2",
+    "mongoose": "^8.11.0",
+    "nodemon": "^3.1.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
